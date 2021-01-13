@@ -1,2 +1,1 @@
-# xenot
-reame meni
+ne nado
